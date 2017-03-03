@@ -1,0 +1,60 @@
+body
+{
+padding: 15px 0; background: -moz-linear-gradient(top, #a2add0, #cfc5a2); background: -webkit-linear-gradient(top, #a2add0, #cfc5a2); background: -o-linear-gradient(top, #a2add0, #cfc5a2); background: -ms-linear-gradient(top, #a2add0, #cfc5a2); background: linear-gradient(top, #a2add0, #cfc5a2); color: #000; 
+}
+
+h1, h2, h3
+{
+    text-align:center;
+    
+}
+
+h2, h3
+{
+    background-color: #a2add0
+    font-size:0.9em;
+    margin-bottom:1px;
+}
+
+
+.news p
+{
+    background-color:#0D165A
+    margin-top:0px;
+}
+.news
+{
+   padding: 15px 0; background: -moz-radial-gradient(50% 50%, #a2add0, #fff); background: -webkit-radial-gradient(50% 50%, #a2add0, #fff); background: -o-radial-gradient(50% 50%, #a2add0, #fff); background: -ms-radial-gradient(50% 50%, #a2add0, #fff); background: radial-gradient(50% 50%, #a2add0, #fff);
+    width:70%;
+    margin:auto;
+    text-align:center; 
+}
+.commentaire
+{
+    text-align:center; 
+}
+a
+{
+  text-decoration:underline;
+  color:#0000FF;  
+}
+
+a:hover
+{
+    text-decoration: none;   
+    color:white;
+    background-color:#B07575;
+}
+
+.em
+{
+    text-align:left; 
+}
+
+.ajout
+{
+    text-align: center; 
+}
+
+
+
